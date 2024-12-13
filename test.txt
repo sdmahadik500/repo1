@@ -1,0 +1,10 @@
+ Volume in drive C is System
+ Volume Serial Number is 8223-7E11
+
+ Directory of C:\Users\sdilipma\OneDrive - Capgemini\Desktop\git
+
+13-12-2024  20:00    <DIR>          .
+13-12-2024  19:54    <DIR>          ..
+13-12-2024  20:00                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  355,766,693,888 bytes free
